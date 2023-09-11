@@ -328,10 +328,13 @@ text-transform: uppercase;
 .contact-block-social{
 	margin-top: 2em;
 	padding-right: 1em;
+	display: flex;
+	align-items:start ;
 }
 .contact-block-social-a{
 	margin-left: 10px;
 	margin-right: 10px;
+	padding-top: 5px;
 }
 .rezhim{
 	margin-top: 2em;
